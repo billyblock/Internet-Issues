@@ -1,0 +1,4 @@
+packetsLost,maximumPing,averagePing,downloadSpeed,uploadSpeed,previousBSSID,currentBSSID,bssidChanged
+
+0,37,28,40.01,26.03,**:**:**:**:**:**,**:**:**:**:**:**,True
+
